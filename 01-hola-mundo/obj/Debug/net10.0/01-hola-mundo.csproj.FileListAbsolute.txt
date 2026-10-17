@@ -1,0 +1,15 @@
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/01-hola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/01-hola-mundo.AssemblyInfoInputs.cache
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/01-hola-mundo.AssemblyInfo.cs
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/01-hola-mundo.csproj.CoreCompileInputs.cache
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/01-hola-mundo.sourcelink.json
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/bin/Debug/net10.0/01-hola-mundo
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/bin/Debug/net10.0/01-hola-mundo.deps.json
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/bin/Debug/net10.0/01-hola-mundo.runtimeconfig.json
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/bin/Debug/net10.0/01-hola-mundo.dll
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/bin/Debug/net10.0/01-hola-mundo.pdb
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/01-hola-mundo.dll
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/refint/01-hola-mundo.dll
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/01-hola-mundo.pdb
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/01-hola-mundo.genruntimeconfig.cache
+/home/vald/dev/csharp-aprendizaje/01-hola-mundo/obj/Debug/net10.0/ref/01-hola-mundo.dll
